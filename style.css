@@ -13,6 +13,13 @@ h1 {
   font-family: Helvetica;
 }
 
+
 h2 {
   font-family: Arial;
 }
+
+h1{
+  border: dotted;
+
+}
+
