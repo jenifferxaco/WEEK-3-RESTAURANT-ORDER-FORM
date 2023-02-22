@@ -6,10 +6,10 @@ html, body {
 body {
   background-color: lightgray;
 }
-h1 {
+#home{
   font-weight: bold;
   text-align: center;
-  border-bottom: dotted cornflowerblue;
+  border-bottom: dotted rgb(162, 165, 171);
   font-family: Helvetica;
 }
 
@@ -23,3 +23,9 @@ h1{
 
 }
 
+#contact{
+  font-weight: bold;
+  text-align: center;
+  border-bottom: dotted rgb(162, 165, 171);
+  font-family: Helvetica;
+}
